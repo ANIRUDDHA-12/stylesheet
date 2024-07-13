@@ -1,0 +1,16 @@
+body{
+    margin:0;
+    padding:0;
+}
+/* here the component on which the style is to be applies that is called as selector */
+/* the style which is being applied is called as property */
+/* the whole of that is called as ruleset */
+/* the one which is written later is always apllied */
+p{
+    color: gray;
+    background-color: lightgray;
+}
+h1{
+    color: aliceblue;
+    background-color: bisque;
+}
